@@ -2,6 +2,9 @@ Link referente aos itens 2 e 3 do projeto - Desafio Docker
 
 docker run trodrigo/codeeducation
 
+link do github do item 2 e 3
+https://github.com/trodrigo/go-codeeducation-rocks
+
 Descrição do desafio:
 
 Nesse desafio você terá duas tarefas extremamente importantes:
